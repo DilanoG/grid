@@ -1,0 +1,53 @@
+
+* {margin: 0; padding: 0;
+}
+body {
+    background-image: url(bg1.png);
+    margin-left: 200px;
+    font-family: Tahoma;
+}
+
+.frame{
+    background-color: rgba(0,128,0,0.4);
+    width: 620px;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-left: 490px;
+    padding: 10px;
+
+
+    /* put css-rules in this ccs-block here below */
+
+}
+
+h1{
+    background-color: rgba(0,32,0,0.4);
+    line-height: 40px;
+    padding: 20px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+
+    /* put css-rules in this ccs-block here below */
+
+}
+
+h2 {
+    line-height: 30px;
+    border: 5px solid purple;
+    margin-top: 10px;
+
+
+
+    /* put css-rules in this ccs-block here below */
+
+
+}
+
+p {
+    background-color: rgba(256, 256, 0, 0.4);
+    line-height: 20px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/* put css-rules in this ccs-block here below */
